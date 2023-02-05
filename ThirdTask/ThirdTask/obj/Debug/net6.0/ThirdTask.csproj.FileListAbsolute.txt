@@ -1,0 +1,15 @@
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.exe
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.deps.json
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.runtimeconfig.json
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.dll
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\bin\Debug\net6.0\ThirdTask.pdb
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfo.cs
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.dll
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\refint\ThirdTask.dll
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.pdb
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ThirdTask.genruntimeconfig.cache
+C:\Users\EHOT\source\repos\ThirdTask\ThirdTask\obj\Debug\net6.0\ref\ThirdTask.dll
