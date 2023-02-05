@@ -15,7 +15,9 @@ INSERT INTO A VALUES (6, 86, 4);
 INSERT INTO A VALUES (7, 86, 1);
 INSERT INTO A VALUES (8, 86, 3);
 
+-- Добавляем свою колонку для идентификации полей
 alter table A add MyId INT IDENTITY
+
 -- Вся таблица, чтобы было удобнее смотреть
 SELECT * FROM A 
 
