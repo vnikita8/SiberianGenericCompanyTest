@@ -1,4 +1,4 @@
-# SiberianGenericCompanyTest
+# Тестовые задания
 
 Разделил по веткам:
 
