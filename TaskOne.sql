@@ -1,3 +1,4 @@
+-- Код писал в онлайн-компиляторе https://onecompiler.com/sqlserver/ 
 
 -- create
 CREATE TABLE A (
